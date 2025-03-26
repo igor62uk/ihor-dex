@@ -1,4 +1,4 @@
-# Compra-Venta
+# Igor Trading
 
 A Crypto Currency Trading Platform
 
@@ -12,9 +12,6 @@ having any fear of losing anything.
 
 ---
 
-# Screenshots
-
-![alt text](https://github.com/Compra-Venta/compraVenta-frontend/blob/master/public/assets/images/learnPage/dashboard.png?raw=true)
 
 ---
 
